@@ -1,9 +1,9 @@
 {
    "MUID" : "HG4314G00741",
-   "bleVersion" : 24,
+   "bleVersion" : 28,
    "hwRevision" : "0x0",
    "inRecovery" : 0,
    "isFirstUse" : 0,
    "productId" : "0xee030000",
-   "swVersion" : "1.8.46"
+   "swVersion" : "1.8.52"
 }
